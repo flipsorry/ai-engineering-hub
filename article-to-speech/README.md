@@ -30,8 +30,12 @@ Convert any text or article into natural-sounding speech using AI-powered voice 
 
 **3. Run the Application**:
    ```bash
+   # for ubuntu - open up this port first
+   # sudo ufw allow 8501
    streamlit run app.py
    ```
+
+
 
 ## How to Use
 
